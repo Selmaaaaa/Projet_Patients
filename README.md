@@ -10,6 +10,9 @@
 7. [API Endpoints](#api-endpoints)
 8. [Future Enhancements](#future-enhancements)
 9. [Screenshots](#screenshots)
+10. [Contributors](#Contributors)
+
+    
 
 
 ## Introduction
@@ -170,7 +173,14 @@ Alerts Page
 
 
 
+A full demo video : 
+
+https://drive.google.com/file/d/1ERJN5WVxsN-qGgHJdESS0FvUnpTAW46f/view?usp=drive_link
 
 
+## Contributors 
 
-
+Rouibah Salma
+Imaghri Aya
+Lachaal Kaoutar 
+Ait Benhida Fatima Ezzahra 
